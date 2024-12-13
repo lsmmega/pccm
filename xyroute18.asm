@@ -12,9 +12,9 @@ Music_xyroute18_Ch1:
 	tempo 160
 	rest 8
 	octave 3
-	volume_envelope 5, 8
 	duty_cycle 1
-	vibrato 0, 1, 4
+	volume_envelope 5, 6
+	vibrato 0, 0, 0
 	note G_, 3
 	rest 1
 	note G_, 1
@@ -59,15 +59,15 @@ Music_xyroute18_Ch1:
 	note G_, 1
 	rest 5
 	octave 2
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note G_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note G_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note G_, 1
 	rest 1
 	note G_, 1
@@ -75,23 +75,23 @@ Music_xyroute18_Ch1:
 	note G_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note G_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note G_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note F_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note F_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note F_, 1
 	rest 1
 	note F_, 1
@@ -99,23 +99,23 @@ Music_xyroute18_Ch1:
 	note F_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note F_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note F_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note E_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note E_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note E_, 1
 	rest 1
 	note E_, 1
@@ -123,23 +123,23 @@ Music_xyroute18_Ch1:
 	note E_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note E_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note E_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note A_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note A_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note A_, 1
 	rest 1
 	note A_, 1
@@ -148,23 +148,23 @@ Music_xyroute18_Ch1:
 	note D_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note D_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note D_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note C_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note C_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note C_, 1
 	rest 1
 	note C_, 1
@@ -172,24 +172,24 @@ Music_xyroute18_Ch1:
 	note C_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note C_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note C_, 2
 	note_type 12, 5, 8
 	rest 1
 	octave 2
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note B_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note B_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note B_, 1
 	rest 1
 	note B_, 1
@@ -198,23 +198,23 @@ Music_xyroute18_Ch1:
 	note E_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note E_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note E_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note A_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note A_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note A_, 1
 	rest 1
 	note A_, 1
@@ -222,33 +222,32 @@ Music_xyroute18_Ch1:
 	note A_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note A_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note A_, 2
 	note_type 12, 5, 8
 	rest 5
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note D#, 8
 	note_type 12, 5, 8
 	rest 4
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note D#, 8
 	note_type 12, 5, 8
 	rest 16
 	octave 2
-	note_type 6, 5, 8
-	vibrato 0, 0, 0
+	note_type 6, 5, 6
 	note G_, 2
 	note_type 12, 5, 8
 	rest 1
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note G_, 2
 	note_type 12, 5, 8
 	rest 3
-	note_type 6, 5, 8
+	note_type 6, 5, 6
 	note G_, 1
 	rest 1
 	note G_, 1
@@ -256,11 +255,11 @@ Music_xyroute18_Ch1:
 	note G_, 2
 	note_type 12, 5, 8
 	rest 3
-	vibrato 0, 1, 4
+	volume_envelope 5, 6
+	vibrato 0, 1, 6
 	note G_, 4
 	octave 3
-	volume_envelope 6, 7
-	vibrato 0, 0, 0
+	volume_envelope 6, 6
 	note C_, 16
 	note C_, 16
 	octave 2
@@ -277,7 +276,7 @@ Music_xyroute18_Ch1:
 	note B_, 16
 	octave 3
 	note D_, 16
-	volume_envelope 5, 7
+	volume_envelope 5, 6
 	note A_, 8
 	note D#, 8
 	note F#, 8
@@ -287,7 +286,8 @@ Music_xyroute18_Ch1:
 	note D#, 1
 	note F#, 1
 	octave 3
-	volume_envelope 14, 7
+	volume_envelope 14, 6
+	vibrato 0, 0, 0
 	note G#, 1
 	rest 1
 	note G#, 1
@@ -296,7 +296,7 @@ Music_xyroute18_Ch1:
 	note G#, 1
 	note G#, 1
 	rest 7
-	volume_envelope 5, 7
+	volume_envelope 5, 6
 	note G#, 16
 	note G#, 16
 	octave 4
@@ -315,10 +315,10 @@ Music_xyroute18_Ch2:
 	note_type 12, 15, 8
 .mainLoop:
 	rest 8
-	volume_envelope 6, 8
 	duty_cycle 1
 	octave 2
-	vibrato 0, 1, 4
+	volume_envelope 6, 6
+	vibrato 0, 0, 0
 	note B_, 3
 	rest 1
 	note B_, 1
@@ -337,8 +337,8 @@ Music_xyroute18_Ch2:
 	sound_loop 3, .loop1
 	rest 4
 	octave 4
-	volume_envelope 5, 8
-	vibrato 0, 1, 4
+	volume_envelope 5, 6
+	vibrato 0, 0, 0
 	note C_, 8
 	note C_, 8
 	octave 3
@@ -354,7 +354,7 @@ Music_xyroute18_Ch2:
 	note F_, 4
 	note D_, 8
 	octave 3
-	volume_envelope 6, 8
+	volume_envelope 6, 6
 	note G_, 1
 	rest 1
 	note G_, 1
@@ -362,14 +362,15 @@ Music_xyroute18_Ch2:
 	note_type 6, 6, 8
 .loop2:
 	octave 3
+	volume_envelope 6, 6
 	note D_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note D_, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note D_, 1
 	rest 1
 	note D_, 1
@@ -377,24 +378,24 @@ Music_xyroute18_Ch2:
 	note D_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note D_, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note D_, 2
 	rest 2
 	sound_loop 2, .loop2
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	octave 2
 	note B_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note B_, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note B_, 1
 	rest 1
 	note B_, 1
@@ -402,24 +403,24 @@ Music_xyroute18_Ch2:
 	note B_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note B_, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note B_, 2
 	octave 3
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note D_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note D_, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note D_, 1
 	rest 1
 	note D_, 1
@@ -427,23 +428,23 @@ Music_xyroute18_Ch2:
 	note G_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note G_, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note G_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note G_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note G_, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note G_, 1
 	rest 1
 	note G_, 1
@@ -451,23 +452,23 @@ Music_xyroute18_Ch2:
 	note A_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note A_, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note A_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note F#, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note F#, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note F#, 1
 	rest 1
 	note F#, 1
@@ -475,24 +476,24 @@ Music_xyroute18_Ch2:
 	note G#, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note G#, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note G#, 2
 	note_type 12, 6, 8
 	rest 1
 	octave 4
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note C_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note C_, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note C_, 1
 	rest 1
 	note C_, 1
@@ -500,21 +501,21 @@ Music_xyroute18_Ch2:
 	note C_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note C_, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note C_, 2
 	note_type 12, 6, 8
 	rest 5
 	octave 3
-	note_type 6, 6, 8
-	vibrato 0, 1, 4
+	note_type 6, 6, 6
+	vibrato 0, 0, 0
 	note G_, 8
 	note_type 12, 6, 8
 	rest 4
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note A_, 8
 	octave 2
 	note G_, 4
@@ -526,15 +527,14 @@ Music_xyroute18_Ch2:
 	note G_, 4
 	note A_, 4
 	note D#, 4
-	vibrato 0, 0, 0
 	note D_, 2
 	note_type 12, 6, 8
 	rest 1
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note D_, 2
 	note_type 12, 6, 8
 	rest 3
-	note_type 6, 6, 8
+	note_type 6, 6, 6
 	note D_, 1
 	rest 1
 	note D_, 1
@@ -542,7 +542,7 @@ Music_xyroute18_Ch2:
 	note D_, 2
 	note_type 12, 6, 8
 	rest 3
-	volume_envelope 6, 7
+	volume_envelope 6, 6
 	note D_, 4
 	sound_call .sub1
 	octave 2
@@ -591,7 +591,7 @@ Music_xyroute18_Ch2:
 	note B_, 2
 	note B_, 16
 	sound_call .sub1
-	note_type 12, 6, 7
+	note_type 12, 6, 6
 	note D_, 2
 	octave 3
 	note F_, 2
@@ -614,7 +614,7 @@ Music_xyroute18_Ch2:
 	note D#, 1
 	note F#, 1
 	octave 4
-	volume_envelope 14, 7
+	volume_envelope 14, 6
 	note C#, 1
 	rest 1
 	note C#, 1
@@ -624,7 +624,7 @@ Music_xyroute18_Ch2:
 	note C_, 1
 	rest 3
 	octave 3
-	volume_envelope 5, 7
+	volume_envelope 5, 6
 	note G#, 4
 	octave 4
 	note C#, 16
