@@ -6,7 +6,7 @@ Music_doridori:
 
 Music_doridori_Ch1:
 	volume 7, 7
-	note_type 12, 12, 5
+	note_type 12, 12, 3
 	octave 2
 	tempo 107
 	note G#, 2
@@ -77,6 +77,7 @@ Music_doridori_Ch1:
 	note G#, 16
 	note_type 12, 12, 5
 	rest 2
+	volume_envelope 12, 3
 	note A_, 6
 	rest 2
 	octave 3
@@ -148,7 +149,7 @@ Music_doridori_Ch1:
 	octave 2
 	rest 2
 	sound_call .sub2
-	note_type 12, 12, 5
+	note_type 12, 12, 3
 	octave 3
 	note C#, 2
 	rest 2
@@ -245,7 +246,7 @@ Music_doridori_Ch1:
 	sound_ret
 
 Music_doridori_Ch2:
-	note_type 12, 12, 5
+	note_type 12, 12, 3
 	octave 3
 	note D#, 2
 	note D#, 2
@@ -556,7 +557,7 @@ Music_doridori_Ch2:
 	note B_, 10
 	sound_call .sub1
 	octave 2
-	note_type 12, 12, 5
+	note_type 12, 12, 3
 	note F#, 2
 	rest 2
 	note F#, 2
