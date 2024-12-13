@@ -12,8 +12,8 @@ Music_teraraidbattle_Ch1:
 	tempo 126
 	octave 3
 	volume_envelope 5, 8
-	vibrato 0, 3, 1
 	duty_cycle 1
+	vibrato 0, 1, 4
 	note C_, 16
 	note F_, 8
 	octave 4
@@ -124,8 +124,8 @@ Music_teraraidbattle_Ch2:
 .mainLoop:
 	octave 3
 	volume_envelope 5, 8
-	vibrato 0, 3, 1
 	duty_cycle 1
+	vibrato 0, 1, 4
 	note G#, 16
 	note G#, 8
 	octave 4
@@ -172,7 +172,7 @@ Music_teraraidbattle_Ch2:
 	note F_, 2
 	octave 4
 	sound_call .sub1
-	note_type 12, 14, 6
+	note_type 12, 14, 4
 	octave 4
 	note F_, 3
 	note E_, 3
@@ -193,7 +193,7 @@ Music_teraraidbattle_Ch2:
 	note F_, 2
 	octave 4
 	sound_call .sub1
-	note_type 12, 14, 6
+	note_type 12, 14, 4
 	octave 4
 	note F_, 3
 	note E_, 3
@@ -214,7 +214,7 @@ Music_teraraidbattle_Ch2:
 	note F_, 2
 	octave 4
 	sound_call .sub1
-	note_type 12, 14, 6
+	note_type 12, 14, 4
 	octave 3
 	note A_, 3
 	rest 1
@@ -234,7 +234,7 @@ Music_teraraidbattle_Ch2:
 	note G_, 2
 	note F_, 2
 	volume_envelope 5, 8
-	vibrato 0, 3, 1
+	vibrato 0, 1, 4
 	note F_, 16
 	note E_, 16
 	note F_, 16
@@ -260,6 +260,7 @@ Music_teraraidbattle_Ch2:
 	octave 3
 .loop1:
 	rest 2
+	volume_envelope 12, 4
 	note F_, 2
 	rest 1
 	note F_, 2
@@ -335,8 +336,8 @@ Music_teraraidbattle_Ch2:
 	rest 1
 	sound_loop 4, .loop2
 	octave 4
-	vibrato 0, 3, 1
 	volume_envelope 5, 8
+	vibrato 0, 1, 4
 	note A_, 16
 	note A_, 16
 	note F#, 16
@@ -355,8 +356,8 @@ Music_teraraidbattle_Ch2:
 	sound_loop 0, .mainLoop
 
 .sub1:
-	volume_envelope 14, 6
 	duty_cycle 1
+	volume_envelope 14, 4
 	note F_, 3
 	note E_, 3
 	note C_, 4
