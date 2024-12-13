@@ -7,7 +7,7 @@ Music_battlenemona:
 
 Music_battlenemona_Ch1:
 	volume 7, 7
-	note_type 12, 11, 6
+	note_type 12, 11, 4
 	tempo 123
 	octave 3
 	duty_cycle 1
@@ -40,7 +40,7 @@ Music_battlenemona_Ch1:
 .mainLoop:
 	octave 2
 	duty_cycle 0
-	volume_envelope 5, 6
+	volume_envelope 5, 4
 	note D_, 2
 	rest 1
 	octave 1
@@ -256,7 +256,7 @@ Music_battlenemona_Ch1:
 	rest 2
 	octave 3
 	duty_cycle 1
-	volume_envelope 11, 6
+	volume_envelope 11, 4
 	note A_, 2
 	note G_, 2
 	note F#, 2
@@ -269,7 +269,7 @@ Music_battlenemona_Ch1:
 	note F#, 2
 	note G_, 2
 	note E_, 2
-	note_type 6, 11, 6
+	note_type 6, 11, 4
 	pitch_slide 1, 4, E_
 	note A_, 1
 	octave 4
@@ -277,6 +277,7 @@ Music_battlenemona_Ch1:
 	octave 3
 	note_type 12, 11, 6
 	rest 2
+	volume_envelope 11, 4
 	note A_, 2
 	note G_, 2
 	note F#, 2
@@ -295,8 +296,8 @@ Music_battlenemona_Ch1:
 	note D_, 2
 	note E_, 2
 	octave 1
-	volume_envelope 5, 6
 	duty_cycle 0
+	volume_envelope 5, 4
 	note G_, 2
 	octave 2
 	note D_, 1
@@ -416,7 +417,7 @@ Music_battlenemona_Ch1:
 	sound_loop 0, .mainLoop
 
 Music_battlenemona_Ch2:
-	note_type 12, 11, 6
+	note_type 12, 11, 4
 	octave 4
 	duty_cycle 1
 	note D_, 2
@@ -449,7 +450,7 @@ Music_battlenemona_Ch2:
 	octave 8
 .mainLoop:
 	octave 3
-	volume_envelope 5, 6
+	volume_envelope 5, 4
 	note D_, 16
 	note D_, 16
 	note D_, 16
@@ -512,7 +513,7 @@ Music_battlenemona_Ch2:
 	note G_, 2
 	rest 16
 	octave 4
-	volume_envelope 11, 6
+	volume_envelope 11, 4
 	note D_, 2
 	note C_, 2
 	octave 3
@@ -551,7 +552,7 @@ Music_battlenemona_Ch2:
 	note F#, 2
 	note G_, 2
 	note A_, 2
-	volume_envelope 5, 6
+	volume_envelope 5, 4
 	note G_, 2
 	rest 4
 	note G_, 2
@@ -599,7 +600,7 @@ Music_battlenemona_Ch2:
 	note D_, 1
 	note C_, 1
 	octave 4
-	volume_envelope 11, 6
+	volume_envelope 11, 4
 	note D_, 2
 	rest 4
 	note C_, 2
