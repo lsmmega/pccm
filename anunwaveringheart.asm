@@ -83,6 +83,7 @@ Music_anunwaveringheart_Ch2:
 	note_type 4, 8, 7
 	rest 1
 	note C#, 1
+	volume_envelope 10, 7
 	note E_, 1
 	note_type 12, 12, 7
 	octave 5
@@ -99,6 +100,7 @@ Music_anunwaveringheart_Ch2:
 	note_type 4, 8, 7
 	rest 1
 	note G#, 1
+	volume_envelope 10, 7
 	note B_, 1
 	note_type 12, 12, 7
 	octave 4
@@ -127,6 +129,7 @@ Music_anunwaveringheart_Ch2:
 	rest 1
 	note B_, 1
 	octave 3
+	volume_envelope 10, 7
 	note E_, 1
 	note_type 12, 12, 7
 	note F#, 8
@@ -167,6 +170,7 @@ Music_anunwaveringheart_Ch2:
 	rest 1
 	note B_, 1
 	octave 4
+	volume_envelope 10, 7
 	note C#, 1
 	note_type 12, 12, 7
 	note G#, 4
